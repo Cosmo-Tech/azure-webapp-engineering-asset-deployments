@@ -1,0 +1,14 @@
+{
+    "REACT_APP_APPLICATION_INSIGHTS_INSTRUMENTATION_KEY": "",
+    "REACT_APP_ENABLE_APPLICATION_INSIGHTS": "False",
+    "REACT_APP_APP_REGISTRATION_CLIENT_ID": "21ba69d6-f9f6-4f29-aa9c-1a352cccae8b",
+    "REACT_APP_AZURE_TENANT_ID": "e413b834-8be8-4822-a370-be619545cb49",
+    "REACT_APP_COSMOTECH_API_SCOPE": "https://perf.api.cosmotech.com/private-v3-asset/.default",
+    "REACT_APP_DEFAULT_BASE_PATH": "https://perf.api.cosmotech.com/cosmotech-api/private-v3-asset/v3",
+    "REACT_APP_ORGANIZATION_ID": "o-dezd04648wygm",
+    "REACT_APP_WORKSPACES_IDS_FILTER": "",
+    "REACT_APP_APP_VERSION": "",
+    "REACT_APP_ORGANIZATION_URL": "",
+    "REACT_APP_DOCUMENTATION_URL": "https://cosmotech.com",
+    "REACT_APP_SUPPORT_URL": "https://support.cosmotech.com"
+}
